@@ -2,6 +2,8 @@
 
 This is a visualization tool for beam search decoding results. Unlike traditional beam search visualizers that perform inference, this tool reads pre-generated beam search data from JSON files and creates interactive HTML visualizations.
 
+Clone from `https://huggingface.co/spaces/m-ric/beam_search_visualizer/tree/main`, thanks for Aymeric Roucher's contribution.
+
 ## Features
 
 - **File-based visualization**: Load beam search results from JSON files
